@@ -26,9 +26,9 @@ Independent variable having the largest absolute value for its standardized coef
 1)	Temperature (0.4923)
 2)	LightSnow (-0.2856)
 3)	Year (0.2338)
-Almost 68.6% of the bike booking was happening during Clear weather with a median of close to 5000 bookings (for two years).
-Almost 32% of the bike booking were happening in Fall with a median of over 5000 bookings (for two years). 
-Almost 97% of bike rentals are happening during non-holiday time.
+- Almost 68.6% of the bike booking was happening during Clear weather with a median of close to 5000 bookings (for two years).
+- Almost 32% of the bike booking were happening in Fall with a median of over 5000 bookings (for two years). 
+- Almost 97% of bike rentals are happening during non-holiday time.
 
 ## Technologies Used
 Python 	3.8.8
@@ -43,11 +43,11 @@ Statsmodels  0.12.2
 ## Acknowledgements
 This project was inspired by IIT, Bangalore and Upgrad, Bangalore..
 - References if any...
-https://en.wikipedia.org/
-https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
-Python Documentation
-Upgrad Study Material
-https://stackoverflow.com/
+- https://en.wikipedia.org/
+- https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+- Python Documentation
+- Upgrad Study Material
+- https://stackoverflow.com/
 
 
 ## Contact
