@@ -22,7 +22,13 @@ BoomBikes wants to understand the factors on which the demand for these shared b
 day.csv: This dataset contains the count of rental bikes between years 2018 and 2019 in Capital bikeshare system with the corresponding weather and seasonal information.
 
 ## Conclusions
-
+Independent variable having the largest absolute value for its standardized coefficient.
+1)	Temperature (0.4923)
+2)	LightSnow (-0.2856)
+3)	Year (0.2338)
+Almost 68.6% of the bike booking was happening during Clear weather with a median of close to 5000 bookings (for two years).
+Almost 32% of the bike booking were happening in Fall with a median of over 5000 bookings (for two years). 
+Almost 97% of bike rentals are happening during non-holiday time.
 
 ## Technologies Used
 Python 	3.8.8
