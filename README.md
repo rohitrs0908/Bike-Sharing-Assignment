@@ -41,7 +41,7 @@ Statsmodels  0.12.2
 
 
 ## Acknowledgements
-This project was inspired by IIT, Bangalore and Upgrad, Bangalore..
+This project was inspired by IIIT, Bangalore and Upgrad, Bangalore..
 <p> References if any...</p>
 
 - https://en.wikipedia.org/
